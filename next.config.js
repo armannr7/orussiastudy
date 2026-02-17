@@ -1,0 +1,1 @@
+module.exports = { reactStrictMode: true, images: { domains: ['localhost', 'via.placeholder.com'], remotePatterns: [{ protocol: 'https', hostname: '**' }] }, i18n: { locales: ['fa', 'en'], defaultLocale: 'fa' } };
